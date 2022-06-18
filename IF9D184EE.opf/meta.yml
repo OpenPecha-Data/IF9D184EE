@@ -1,0 +1,36 @@
+id: IF9D184EE
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T02:32:40.607407'
+last_modified: '2022-06-19T02:32:40.607419'
+parser: null
+source_metadata:
+  title: sTag tshang lo tsā bas Sakya Genealogy
+  author: stag tshang lo tsA ba shes rab rin chen/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2012-09); revision in process, thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:Rime Centre Moscow, OCR-processed, Kunga Dorje (Kathmandu) (kun)
+  - Editorial process:Mathias Fermer (mf), Kunga Dorje (kun)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:Kunga Dorje (kun), Mathias Fermer (mf)
+  text_witnesses: https://sakyaresearch.org/sources/408
+  bases:
+    b95b:
+      title: sTag tshang lo tsā bas Sakya Genealogy
+      order: 1
+      base_file: b95b.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
